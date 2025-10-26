@@ -1,2 +1,3 @@
 # 64-and-IA32-Architectures-Software-Developer-s-Manual-by-Chinese
-英特尔手册中文翻译（Deepseek翻译的）。
+本仓库是英特尔手册的中文翻译版，由deepseek翻译得到。
+欢迎大家来赞助：[CryoLogicat的爱发电！](https://afdian.com/a/CryoLogicat)
